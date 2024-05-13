@@ -1,0 +1,22 @@
+{"hatay" :[
+{
+"isim":"Künefe",
+"aciklama": "Şerbetli ve kendine has peyniriyle yapılan lezzetli bir tatlıdır.",
+"fotourl":"https://github.com/sidikaBozkurt/Hatay/blob/main/kunefe.jpg"
+},
+{ 
+"isim":"Müze",
+"aciklama": "Türkiyenin en büyük arkeolojik müzesidir.",
+"fotourl":"https://github.com/sidikaBozkurt/Hatay/blob/main/m%C3%BCze.jpg"
+},
+{ 
+"isim":"Beşikli Mağrası",
+"aciklama": "Roma Döneminden kalma bir yapıttır.",
+"fotourl":"https://github.com/sidikaBozkurt/Hatay/blob/main/foto.json"
+},
+{ 
+"isim":"Döner",
+"aciklama": "Bol soslu lezzetli bir yiyecektir.",
+"fotourl":"https://github.com/sidikaBozkurt/Hatay/blob/main/indir.png
+"
+},
